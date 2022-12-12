@@ -7,4 +7,10 @@ body {
 
 }
 
+.couch {
+    display: inline-block;
+    width: 3024px;
+    height: 4032px;
+    background-image: url('img/IMG_COUCH.jpg')
+}
     
